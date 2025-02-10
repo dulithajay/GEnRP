@@ -1,0 +1,483 @@
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x PR_Hodoscope.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x PR_Multiplicity.C
+.q
+.x PR_Multiplicity.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x Exercise.C
+.q
+.x PR_Hodoscope.C
+2.q
+2+3
+.q
+.x PR_Hodoscope.C
+gPad->SaveAs("myplot.pdf");
+gPad->SaveAs("myplot.pdf")
+.q
+.x PR_Hodoscope.C
+c1->SaveAs("myplot.pdf");
+c1->SaveAs("myplot.pdf");
+c1->SaveAs("myplot2.pdf")
+gPad->SaveAs("myplot.pdf");
+gPad->SaveAs("myplot.pdf")
+.q
+.x PR_Hodoscope.C
+c1->SaveAs("myplot2.pdf")
+gROOT->GetListOfCanvases()->Print();
+Cccanvas->SaveAs("plot2.pdf")
+.q
+.x Dulitha_PR_Hodoscope.C
+vi Du
+.q
+.x Dulitha_PR_Hodoscope.C
+.q
+.x Dulitha_PR_Hodoscope.C
+.q
+.x Dulitha_PR_Hodoscope.C
+T->StartViewer()
+tv__tree = (TTree *)0x32ecd20;
+tv__tree_list->Add(tv__tree);
+T->StartViewer()
+tv__tree = (TTree *)0x32ecd20;
+tv__tree_list->Add(tv__tree);
+.q
+.q
+tv__tree->Draw("Ndata.bb.bbtrig.a_amp_p","","", 9850, 0);
+.q
+.q
+exit
+.q
+.q
